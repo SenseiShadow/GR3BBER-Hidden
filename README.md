@@ -22,9 +22,6 @@ This is a terminal application that verifies a key and monitors for MTA process 
 data/game.exe | it has to be called that
 ```
 
-## Requirements:
-- Python 3
-- psutil library (installed via apt: python3-psutil)
 
 ## Note:
 The system monitors for any process containing "mta" in its name. Make sure to have MTA (Multi Theft Auto) or a similar process running to trigger the executable launch.
