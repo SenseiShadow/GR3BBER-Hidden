@@ -3,10 +3,9 @@
 This is a terminal application that verifies a key and monitors for MTA process to launch an executable.
 
 ## Files Created:
-- `terminal.py` - Main terminal application
+- `terminal.exe` - Main terminal application
 - `key.txt` - Contains the verification key "SenseiShadow"
 - `data/game.exe` - Executable that will be launched when MTA is detected
-- `run_terminal.sh` - Script to easily run the terminal
 
 ## How it works:
 1. The terminal displays "Verifying Key..." 
