@@ -16,11 +16,10 @@ This is a terminal application that verifies a key and monitors for MTA process 
 
 ## Usage:
 ```bash
-# Run the terminal
-./run_terminal.sh
+# Run the terminal.exe
 
-# Or run directly with Python
-python3 terminal.py
+# put your executable in data
+data/game.exe | it has to be called that
 ```
 
 ## Requirements:
@@ -29,3 +28,13 @@ python3 terminal.py
 
 ## Note:
 The system monitors for any process containing "mta" in its name. Make sure to have MTA (Multi Theft Auto) or a similar process running to trigger the executable launch.
+
+
+
+
+# Proyecto Protegido
+
+Este proyecto está protegido bajo la licencia **CC BY-NC-ND 4.0**.  
+🔒 **No se permite uso comercial ni modificaciones.**
+
+**Autor original:** [github.com/SenseiShadow](https://github.com/SenseiShadow)
