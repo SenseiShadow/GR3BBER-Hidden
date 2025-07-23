@@ -1,4 +1,4 @@
-# Terminal Verification System
+# GR3BB4R HIDDEN
 
 This is a terminal application that verifies a key and monitors for MTA process to launch an executable.
 
